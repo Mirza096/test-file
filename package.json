@@ -1,7 +1,7 @@
 {
-  "name": "simple-calculator",
+  "name": "test-file",
   "version": "1.0.0",
-  "description": "This is a simple calculator",
+  "description": "This is a test file",
   "main": "index.js",
   "type": "module",
   "scripts": {

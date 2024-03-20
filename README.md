@@ -1,2 +1,2 @@
 # test-file
-This is a simple calculator
+This is a test file
